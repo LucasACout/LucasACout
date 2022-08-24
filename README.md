@@ -1,7 +1,5 @@
 ## Bem-vindo(a) ao perfil do Lucas Arruda
 
-![Snake animation](https://github.com/LucasACout/LucasACout/blob/output/github-contribution-grid-snake.svg) 
-
 <div>
   <a href="https://github.com/LucasACout">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasACout&theme=midnight-purple"/>
