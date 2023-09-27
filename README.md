@@ -4,8 +4,9 @@
   <a href="https://github.com/LucasACout">
 </div>
 <br> 
- 
-<div> 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasACout&show_icons=true&theme=radical)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasACout&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
