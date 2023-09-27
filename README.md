@@ -6,7 +6,6 @@
 <br> 
  
 <div> 
-  <a href="https://www.linkedin.com/in/lucas-andrade-550b61198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
